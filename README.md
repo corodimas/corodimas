@@ -35,5 +35,5 @@ I'm passionate about crafting engaging and innovative web applications. My journ
 
 Happy coding! 🚀
 
-[![Corodimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Corodimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=corodimas)](https://github.com/anuraghazra/github-readme-stats)
 

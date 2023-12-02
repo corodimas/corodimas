@@ -1,7 +1,8 @@
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
-<br>
-<br> 
-### Hi there 👋
+<div align="center">
+  <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+</div> 
+
+# Hi there 👋
 I'm CD, a 21-year-old computer engineering student at King Mongkut's Institute of Technology Ladkrabang. 🚀
 
 💻 Aspiring Full Stack Developer:

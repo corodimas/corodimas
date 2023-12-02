@@ -34,6 +34,14 @@ I'm passionate about crafting engaging and innovative web applications. My journ
 
 Happy coding! 🚀
 
-[![Corodimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=corodimas&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corodimas&layout=compact&theme=github_dark_dimmed)
+<table>
+  <tr>
+    <td>
+      [![Corodimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=corodimas&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corodimas&layout=compact&theme=github_dark_dimmed)
+    </td>
+  </tr>
+</table>
 

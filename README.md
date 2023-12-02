@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+  <img align="center" src="https://github.com/corodimas/corodimas/blob/main/assets/badge.gif" />
 </div> 
 
 # Hi there 👋

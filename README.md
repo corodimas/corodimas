@@ -36,6 +36,5 @@ Happy coding! 🚀
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=corodimas&show_icons=true&theme=github_dark_dimmed" height="170"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corodimas&layout=compact&theme=github_dark_dimmed" height="170" />  
 </div> 
 
